@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+ int main() {
     int arr[10], n;
 
     printf("Enter the number of elements you want.\n");
