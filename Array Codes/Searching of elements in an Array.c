@@ -11,7 +11,7 @@ int main() {
         if (arr[i] == n) {
             printf("%d is present at %d position\n", n, i + 1);
             count += 1;
-        }
+         }
     }
 
     if (count == 0) {
